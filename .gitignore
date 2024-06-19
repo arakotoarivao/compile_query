@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/CompiledQuery/.vs/CompiledQuery
+/CompiledQuery/bin/Debug/net8.0
+/CompiledQuery/obj
+/Tests/bin/Debug/net8.0
+/Tests/obj
